@@ -15,7 +15,7 @@ Use this method if you are installing directly on the device using a file manage
 
 
 
-Download: Obtain the APK and ODEX files (Check APK Mirror for additional versions).
+Download: Obtain the APK and ODEX files releases .
 
 Copy Files: Transfer both the .apk and the .odex file to your device storage.
 
